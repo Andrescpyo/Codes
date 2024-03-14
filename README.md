@@ -40,6 +40,8 @@ El algoritmo principal del programa funciona de la siguiente manera:
 6. Si el usuario elige mostrar los vehículos, se muestra la información de cada vehículo en la lista, incluyendo el consumo de gasolina. 
 7. Si el usuario elige salir del programa, se termina el programa. 
 
+El diagrama  UML que representa esta arquitectura se encuentra en el archivo "Diagrama_de_clases.jpeg"
+
 **Autor:**
 
 * Andrés Cerdas Padilla
