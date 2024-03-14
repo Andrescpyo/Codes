@@ -16,7 +16,7 @@ Al desarrollar este programa, se tuvieron en cuenta las siguientes inquietudes:
 
 <p>**¿Cómo mostrar la información de los vehículos de forma clara y organizada?** Se utilizó una función para mostrar la información de cada vehículo, incluyendo el consumo de gasolina.<p>
 
-<h3>## :folder: Técnicas y arquitectura</h3>
+<h3>##Técnicas y arquitectura</h3>
 
 El programa está escrito en Python y utiliza las siguientes técnicas:
 
@@ -26,8 +26,9 @@ El programa está escrito en Python y utiliza las siguientes técnicas:
 
 <h3>## :hammer: La arquitectura del programa es la siguiente:</h3>
 
-<p>**Módulo** __main.py__: Contiene la función principal del programa, que permite al usuario crear, mostrar y gestionar una lista de vehículos.</p>
-<p>**Módulo** __vehiculo.py__: Define las clases Vehiculo, Motor, Coche, Camion, Yate y Moto.</p>
+**Módulo** __main.py__: Contiene la función principal del programa, que permite al usuario crear, mostrar y gestionar una lista de vehículos.
+
+**Módulo** __vehiculo.py__: Define las clases Vehiculo, Motor, Coche, Camion, Yate y Moto.
 
 <p>**Funcionamiento del algoritmo:**</p>
 El algoritmo principal del programa funciona de la siguiente manera:
