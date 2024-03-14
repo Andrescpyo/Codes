@@ -34,5 +34,5 @@ El algoritmo principal del programa funciona de la siguiente manera:
 3.Si el usuario elige crear un vehículo, se le pide que introduzca la información del vehículo, como el tipo de vehículo, el modelo, el año, el chasis y la potencia del motor.
 4.Se crea un nuevo objeto Vehiculo de la clase correspondiente al tipo de vehículo seleccionado.
 5.Se añade el nuevo objeto Vehiculo a la lista.
-6.Si el usuario elige mostrar los vehículos, se muestra la información de cada vehículo en la lista, incluyendo el consumo de gasolina.
-7.Si el usuario elige salir del programa, se termina el programa.
+6.Si el usuario elige mostrar los vehículos, se muestra la información de cada vehículo en la lista, incluyendo el consumo de gasolina. 
+7.Si el usuario elige salir del programa, se termina el programa. 
