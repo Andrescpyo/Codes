@@ -10,13 +10,13 @@ Este programa te permite gestionar una lista de vehículos, incluyendo:
 
 Al desarrollar este programa, se tuvieron en cuenta las siguientes inquietudes:
 
-<p>**_¿Cómo representar la diversidad de tipos de vehículos?_** Se decidió utilizar herencia para crear clases específicas para cada tipo de vehículo (coche, camión, yate, moto).<p>
+<p>**¿Cómo representar la diversidad de tipos de vehículos?** Se decidió utilizar herencia para crear clases específicas para cada tipo de vehículo (coche, camión, yate, moto).<p>
 
-<p>**_¿Cómo calcular el consumo de gasolina?_** Se desarrolló una fórmula que toma en cuenta la potencia del motor, el peso del motor y el tipo de chasis.<p>
+<p>**¿Cómo calcular el consumo de gasolina?** Se desarrolló una fórmula que toma en cuenta la potencia del motor, el peso del motor y el tipo de chasis.<p>
 
-<p>**_¿Cómo mostrar la información de los vehículos de forma clara y organizada?_** Se utilizó una función para mostrar la información de cada vehículo, incluyendo el consumo de gasolina.<p>
+<p>**¿Cómo mostrar la información de los vehículos de forma clara y organizada?** Se utilizó una función para mostrar la información de cada vehículo, incluyendo el consumo de gasolina.<p>
 
-<h3>##Técnicas y arquitectura</h3>
+<h3>## :folder: Técnicas y arquitectura</h3>
 
 El programa está escrito en Python y utiliza las siguientes técnicas:
 
@@ -26,10 +26,10 @@ El programa está escrito en Python y utiliza las siguientes técnicas:
 
 <h3>## :hammer: La arquitectura del programa es la siguiente:</h3>
 
-**Módulo** __main.py__: Contiene la función principal del programa, que permite al usuario crear, mostrar y gestionar una lista de vehículos.
-**Módulo** __vehiculo.py__: Define las clases Vehiculo, Motor, Coche, Camion, Yate y Moto.
+<p>**Módulo** __main.py__: Contiene la función principal del programa, que permite al usuario crear, mostrar y gestionar una lista de vehículos.</p>
+<p>**Módulo** __vehiculo.py__: Define las clases Vehiculo, Motor, Coche, Camion, Yate y Moto.</p>
 
-**Funcionamiento del algoritmo**
+<p>**Funcionamiento del algoritmo:**</p>
 El algoritmo principal del programa funciona de la siguiente manera:
 
 1. Se crea una lista vacía para almacenar los vehículos.
