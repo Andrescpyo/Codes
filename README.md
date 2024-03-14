@@ -39,3 +39,11 @@ El algoritmo principal del programa funciona de la siguiente manera:
 5. Se añade el nuevo objeto Vehiculo a la lista.
 6. Si el usuario elige mostrar los vehículos, se muestra la información de cada vehículo en la lista, incluyendo el consumo de gasolina. 
 7. Si el usuario elige salir del programa, se termina el programa. 
+
+**Autor:**
+
+* Andrés Cerdas Padilla
+
+**Fecha:**
+
+* 2024-03-13
